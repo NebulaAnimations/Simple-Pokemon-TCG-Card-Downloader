@@ -3,7 +3,7 @@ Makes use of https://pokemontcg.io/ to grab the card images, download them, and 
 
 Instructions: <br />
 1: Open file with text editor. <br />
-2: Get and API key from: https://pokemontcg.io/ <br />
+2: Get an API key from: https://pokemontcg.io/ <br />
 3: Enter key. <br />
 4: Save and run script.
 
